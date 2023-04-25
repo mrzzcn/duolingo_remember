@@ -743,5 +743,9 @@
         "Male": [
             "zu-ZA-ThembaNeural"
         ]
+    },
+    "zc": {
+        "Female": ["zh-HK-HiuGaaiNeural", "zh-HK-HiuMaanNeural"],
+        "Male": ["zh-HK-WanLungNeural"]
     }
 }
